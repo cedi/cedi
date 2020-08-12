@@ -23,7 +23,7 @@ I do fun stuff with K8s, I love Go and do a lot of work on [@open-infrastructure
 
 <details>
 <p align="center">
-<img src="https://lh3.googleusercontent.com/3gX2qgys2I-9HnEIvXUA10ed3AILvg5MclnKWBquEkJKP3g5_kD6WR7Ptwp3TwAGla1DuSmHv64MdTtACNLlArFVq7BwbTrTVhigsA=s0" alt="Service Reliability Hirarchy" width="200px"/>
+<img src="https://lh3.googleusercontent.com/3gX2qgys2I-9HnEIvXUA10ed3AILvg5MclnKWBquEkJKP3g5_kD6WR7Ptwp3TwAGla1DuSmHv64MdTtACNLlArFVq7BwbTrTVhigsA=s0" alt="Service Reliability Hirarchy" width="300px"/>
 </p>
 </details>
 
