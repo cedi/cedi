@@ -2,9 +2,9 @@
 
 Hi, I'm cedi.
 
-My current work as Senior Site Reliability Engineer focuses on making [iMKE](imke.cloud) more reliable and move it forward.
+My current work as Senior Site Reliability Engineer focuses on making [iMKE](https://imke.cloud) more reliable and move it forward.
 
-I do fun stuff with K8s, I love Go and do a lot of work on [@open-infrastructure](open-infrastructure.de).
+I do fun stuff with K8s, I love Go and do a lot of work on [@open-infrastructure](https://open-infrastructure.de).
 
 ## :coffee: Get in touch
 
