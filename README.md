@@ -23,7 +23,7 @@ I do fun stuff with K8s, I love Go, and do a lot of work on [@open-infrastructur
 * Be excellent to each other
 * Follow the [80/20 principle](https://en.wikipedia.org/wiki/Pareto_principle) whenever possible
   * Don't waste 80% of your time, implementing the top 20% when the the customer is already happy with the 80% you delivered in 20% of your time
-* Focus on focus on the fundamentals rather than fancy cutting-edge stuff
+* Focus on the fundamentals rather than fancy cutting-edge stuff
 * Get your good damn service reliability hirarchy right
   * Don't waste time implementing fancy features when the lower part of your pyramid can't support it
 
