@@ -6,7 +6,7 @@ I’ve done everything wrong the first time so you don’t have to.
 
 Trust me, I’m an engineer.
 
-My current work as Senior Site Reliability Engineer focuses on making [iMKE](https://imke.cloud) more reliable and move it forward.
+My current work as K8s SRE Team Lead focuses on making [iMKE](https://imke.cloud) more reliable and move it forward.
 
 I do fun stuff with K8s, I love Go, and do a lot of work on [@open-infrastructure](https://open-infrastructure.de).
 
