@@ -30,11 +30,11 @@ What makes my analoge photography even more fun is, that I develop my film mysel
 * Be excellent to each other
 * Focus on the fundamentals rather than fancy cutting-edge stuff
 * Get your good damn service reliability hierarchy right
-  * <details> <p align="center"> <img src="https://lh3.googleusercontent.com/3gX2qgys2I-9HnEIvXUA10ed3AILvg5MclnKWBquEkJKP3g5_kD6WR7Ptwp3TwAGla1DuSmHv64MdTtACNLlArFVq7BwbTrTVhigsA=s0" alt="Service Reliability Hirarchy" width="300px"/> </p> </details>
+  * <details> <p align="center"> <img src="https://lh3.googleusercontent.com/3gX2qgys2I-9HnEIvXUA10ed3AILvg5MclnKWBquEkJKP3g5_kD6WR7Ptwp3TwAGla1DuSmHv64MdTtACNLlArFVq7BwbTrTVhigsA=s0" alt="Service Reliability Hirarchy" width="500px"/> </p> </details>
 * Alert on symtoms rather than vitals
 * There is no singular root-cause to your incidents - complex systems fail in a complex way
   * [How Complex Systems Fail](https://how.complexsystems.fail)
 * Your beloved "system" or "infrastructure" only exists in your head!
-  * <details> <p align="center"> <a href="https://snafucatchers.github.io/#2_3_The_above-the-line/below-the-line_framework"><img src="https://snafucatchers.github.io/stella_report_files/figure4.png" alt="above-the-line/below-the-line framework" width="300px" /> </a> </p> </details>
+  * <details> <p align="center"> <a href="https://snafucatchers.github.io/#2_3_The_above-the-line/below-the-line_framework"><img src="https://snafucatchers.github.io/stella_report_files/figure4.png" alt="above-the-line/below-the-line framework" width="500px" /> </a> </p> </details>
 * Incidents are a good thing! They gauge the delta between how you imagened your systems behaves versus how it actually works
 
