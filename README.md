@@ -57,9 +57,7 @@ I develop film at home and have a tiny darkroom with a 35mm enlarger.
 
 ### ☕ Let’s Connect
 
-<p align="left">
-  <a href="https://github.com/cedi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="http://hachyderm.io/@cedi"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
-  <a href="https://instagram.com/c3di1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/cekienzl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
-</p>
+[![GitHub Specht Labs](https://img.shields.io/badge/SpechtLabs-008080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/specht-labs)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](http://hachyderm.io/@cedi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/c3di1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/cekienzl)
