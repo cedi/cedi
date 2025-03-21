@@ -57,9 +57,6 @@ I develop film at home and have a tiny darkroom with a 35mm enlarger.
 
 ### ☕ Let’s Connect
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109378136289004649)
-
-
 <p align="left">
   <a href="https://github.com/cedi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="http://hachyderm.io/@cedi"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
