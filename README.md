@@ -2,8 +2,8 @@
 
 Hi, I'm Cedric — but most people know me as *cedi*.
 
-I'm a **Senior Site Reliability Engineering and Tech Lead** at [Microsoft Azure](https://github.com/microsoft), working on **distributed systems, chaos engineering, and platform resilience** at scale.  
-If it's complex, distributed, and needs to stay up — I'm into it.
+I'm a **Site Reliability Engineering Tech Lead**, working mainly on **distributed systems, chaos engineering, and platform resilience** at scale.
+Basically, if it's complex, distributed, and the lights have to stay on no matter what: I'm into it.
 
 ---
 
