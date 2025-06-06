@@ -16,30 +16,12 @@ If it's complex, distributed, and needs to stay up — I'm into it.
 
 ---
 
-### 🛠️ Community & Chaos
-
-I regularly help with infrastructure, planning, and logistics for events like the Chaos Communication Congress.
-During the pandemic, I helped build:
-
-- _jitsi.rocks_ - A collection of Jitsi Video Servers to stay connected
-- _Open Infrastructure_ - A collective of people building desperately needed infrastructure for education institutions to keep classes going
-- The Kubernetes stack powering the [rC3 - NOW HERE](https://rc3.world/2021/) virtual workd
-
----
-
 ### 🧪 What I Tinker With
 
 - Home lab with **Raspberry Pi K3s cluster**, **CEPH storage**, and a **Stratum 1 NTP/PTP time server**
 - **Cluster API** managed cloud Kubernetes cluster running a full **Grafana LGTM Stack**
 - Kernel recompilation just for fun (and for weird hardware drivers)
 - Low-level **distributed systems** algorithms to explore gossip and consensus protocols
-
----
-
-### 📸 When Not Writing YAML
-
-I’m also a hobbyist **analog photographer** with a small collection of 35mm and medium format cameras (Leica M6, Hasselblad 500 c/m, Canon A1).  
-I develop film at home and have a tiny darkroom with a 35mm enlarger.
 
 ---
 
