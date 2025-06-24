@@ -1,4 +1,4 @@
-## 👋 Cedric Kienzler — @cedi
+## 👋 Cedric Specht — @cedi
 
 Hi, I'm Cedric — but most people know me as *cedi*.
 
