@@ -39,7 +39,7 @@ Basically, if it's complex, distributed, and the lights have to stay on no matte
 
 ### ☕ Let’s Connect
 
-[![GitHub Specht Labs](https://img.shields.io/badge/SpechtLabs-008080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/specht-labs)
+[![GitHub Specht Labs](https://img.shields.io/badge/SpechtLabs-008080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spechtlabs)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](http://hachyderm.io/@cedi)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/c3di1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/cekienzl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/cedricspecht)
